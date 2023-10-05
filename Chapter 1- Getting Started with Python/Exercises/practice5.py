@@ -9,5 +9,5 @@ while True:
             if b.upper() == "BATH":
                 s = input("Spa... ")
                 if s.upper() == "SPA":
-                    print(i+l+b+s)
+                    print(i,l,b,s)
                     break
