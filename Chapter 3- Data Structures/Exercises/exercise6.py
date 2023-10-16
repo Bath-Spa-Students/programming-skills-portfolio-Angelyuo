@@ -31,4 +31,7 @@ print(f"{family[1]} you are still invited to dinner!")
 
 del family[0]
 del family[0]
+# Use del to remove the last two names from your list, so you have an empty list.
+
 print(family)
+# Print your list to make sure you actually have an empty list at the end of your program.
