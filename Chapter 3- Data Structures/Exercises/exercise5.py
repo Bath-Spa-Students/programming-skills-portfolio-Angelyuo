@@ -12,6 +12,8 @@ print(f"It seems that {family[0]} is not able to come, how unfortunate. Guess I 
 # Add a print() call at the end of your program stating the name of the guest who can’t make it.
 
 
-family[0] = "Angelo"
+family[0] = "Angelo" 
+# Modify your list, replacing the name of the guest who can’t make it with the name of the new person you are inviting.
 for family in family:
     print(f"Hello {family}! I invite you to come to dinner! See you there :)")
+# Print a second set of invitation messages, one for each person who is still in your list.
