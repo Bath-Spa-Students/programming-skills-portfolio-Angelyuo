@@ -15,4 +15,4 @@ while sandwhich_orders:
 print('''
 List of finished sandwhiches:''')
 for sandwhiches in finished_sandwhiches:
-    print(sandwhiches)
+    print(sandwhiches) # Make sure no pastrami sandwiches end up in finished_sandwiches.
